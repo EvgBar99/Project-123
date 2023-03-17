@@ -1,0 +1,1492 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://www.socnetsolutions.com/
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?author=1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-28.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?cat=5
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-29.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?feed=comments-rss2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?feed=rss2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?feed=rss2&author=1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-33.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?feed=rss2&cat=5
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-34.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?feed=rss2&p=145
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-31.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?feed=rss2&p=155
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-30.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?feed=rss2&p=98
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-32.htm
+Content Type: application/rss+xml
+
+Uri: https://www.socnetsolutions.com/?p=145
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-19.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?p=155
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-18.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?p=98
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-20.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=10
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=11
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=13
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=68
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=72
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=79
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-7.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?page_id=94
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?product=accounts-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-14.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?product=human-resource-management-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-26.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?product=hybsic
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-17.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?product=inventory-tracking-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-27.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?product=library-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?product=loan-payment-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-16.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?service=computer-network-solutions
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?service=ict-management-and-consultancy
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?service=software-development
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?service=website-design-and-development
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?team=adam-a-alli
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-21.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?team=godfrey-mayende
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-23.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?team=jonathan-kizito
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-22.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?team=moses-matovu
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-24.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/?team=robert-tumusiime
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-25.htm
+Content Type: text/html
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-2.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fp%3D145
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-50.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fp%3D145&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-51.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fp%3D155
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-47.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fp%3D155&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-48.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fp%3D98
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-53.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fp%3D98&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-54.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D10
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-5.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D10&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-6.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D11
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-14.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D11&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-15.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D13
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-20.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D13&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-21.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D68
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-8.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D68&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-9.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D72
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-11.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D72&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-12.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D79
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-17.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fpage_id%3D79&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-18.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Daccounts-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-35.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Daccounts-system&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-36.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dhuman-resource-management-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-71.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dhuman-resource-management-system&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-72.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dhybsic
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-44.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dhybsic&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-45.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dinventory-tracking-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-74.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dinventory-tracking-system&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-75.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dlibrary-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-38.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dlibrary-system&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-39.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dloan-payment-system
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-41.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fproduct%3Dloan-payment-system&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-42.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dcomputer-network-solutions
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-23.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dcomputer-network-solutions&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-24.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dict-management-and-consultancy
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-32.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dict-management-and-consultancy&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-33.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dsoftware-development
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-26.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dsoftware-development&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-27.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dwebsite-design-and-development
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-29.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fservice%3Dwebsite-design-and-development&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-30.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Dadam-a-alli
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-56.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Dadam-a-alli&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-57.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Dgodfrey-mayende
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-62.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Dgodfrey-mayende&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-63.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Djonathan-kizito
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-59.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Djonathan-kizito&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-60.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Dmoses-matovu
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-65.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Dmoses-matovu&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-66.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Drobert-tumusiime
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-68.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F%3Fteam%3Drobert-tumusiime&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-69.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fwww.socnetsolutions.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-3.php
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-77.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-4.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-13.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-19.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/68
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-7.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/72
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-10.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/79
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-16.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-1.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/posts/145
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-49.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/posts/155
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-46.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/posts/98
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-52.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/product/133
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-73.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/product/135
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-70.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/product/137
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-43.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/product/139
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-40.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/product/141
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-37.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/product/143
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-34.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/service/113
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-31.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/service/129
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-28.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/service/130
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-25.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/service/131
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-22.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/team/166
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-58.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/team/168
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-61.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/team/188
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-55.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/team/190
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-64.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/team/202
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-67.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/index.php?rest_route=/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\index-76.php
+Content Type: application/json
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.5.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor-pro\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor-pro\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.5.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.13.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.13.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.13.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.13.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.13.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.5.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/ml-slider/extendify-sdk/public/build/extendify-utilities.css?ver=13.4
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\ml-slider\extendify-sdk\public\build\extendify-utilities.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/block/profile/block.js?ver=1627642763
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\block\profile\block.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/block/profile/font-awesome.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\block\profile\font-awesome.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/block/profile/style.css?ver=1627642763
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\block\profile\style.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\includes\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\includes\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\includes\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\includes\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\includes\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-profile-block/includes/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-profile-block\includes\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/organic-widget-area-block/src/css/style.css?ver=1627642764
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\organic-widget-area-block\src\css\style.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/ultra-companion/assets/css/shortcodes.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\ultra-companion\assets\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/ultra-companion/shortcodes/shortcodes-front.js?ver=1.1.8
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\ultra-companion\shortcodes\shortcodes-front.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-full.min.css?ver=1.7.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js?ver=1.19.3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\js\mailcheck.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/js/punycode.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\js\punycode.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.js?ver=1.7.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\plugins\wpforms-lite\assets\js\wpforms.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/js/theme.vanilla.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\js\theme.vanilla.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\js\vendors\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/js/vendors/isotope.pkgd.min.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\js\vendors\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\js\vendors\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/js/vendors/sidr.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\js\vendors\sidr.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\assets\js\vendors\smoothscroll.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/css/fontawesome-all.min.css?ver=5.8.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://www.socnetsolutions.com/wp-content/themes/oceanwp/inc/customizer/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\themes\oceanwp\inc\customizer\assets\fonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/accounts-1024x839.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\accounts-1024x839.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/accounts-300x246.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\accounts-300x246.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/accounts-768x629.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\accounts-768x629.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/accounts.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\accounts.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/Company-1024x474.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\Company-1024x474.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/Company-300x139.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\Company-300x139.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/Company-768x355.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\Company-768x355.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/Company.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\Company.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/human-resouces-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\human-resouces-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/human-resouces-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\human-resouces-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/human-resouces-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\human-resouces-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/human-resouces-768x768.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\human-resouces-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/human-resouces.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\human-resouces.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/imagey-300x150.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\imagey-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/imagey.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\imagey.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/index4-300x102.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\index4-300x102.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/index4.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\index4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/index5.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\index5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/inventory-300x145.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\inventory-300x145.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/inventory.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\inventory.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/lib-1024x576.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\lib-1024x576.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/lib-300x169.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\lib-300x169.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/lib-768x432.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\lib-768x432.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/lib.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\lib.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/loan.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\loan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/new3-1024x576.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\new3-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/new3-300x169.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\new3-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/new3-768x432.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\new3-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/new3.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\new3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/sms.png
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\sms.png
+Content Type: image/png
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/training-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\training-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/training-1.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\training-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/training-unit-1170x827-1024x724.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\training-unit-1170x827-1024x724.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/training-unit-1170x827-300x212.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\training-unit-1170x827-300x212.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/training-unit-1170x827-768x543.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\training-unit-1170x827-768x543.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/07/training-unit-1170x827.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\07\training-unit-1170x827.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/IMG-20181205-WA0008-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\IMG-20181205-WA0008-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/IMG-20181205-WA0008-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\IMG-20181205-WA0008-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/IMG-20181205-WA0008-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\IMG-20181205-WA0008-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/IMG-20181205-WA0008.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\IMG-20181205-WA0008.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/is.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\is.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/logo.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/Robert-Tumusiime-BOB-300x300-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\Robert-Tumusiime-BOB-300x300-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/2019/08/Robert-Tumusiime-BOB-300x300-1.jpg
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\2019\08\Robert-Tumusiime-BOB-300x300-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/global.css?ver=1641149146
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-11.css?ver=1641204026
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-11.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-206.css?ver=1641149146
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-206.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-212.css?ver=1641149147
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-212.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-368.css?ver=1641149147
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-368.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-72.css?ver=1641149858
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-72.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-79.css?ver=1641149697
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-79.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-content/uploads/elementor/css/post-9.css?ver=1641149147
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-content\uploads\elementor\css\post-9.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/comment-reply.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/a11y.min.js?ver=0ac8327cc1c40dcfdf29716affd7ac63
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/api-fetch.min.js?ver=134e23b5f88ba06a093f9f92520a98df
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/autop.min.js?ver=0e55c6c10f6d8a4bd90b2ea903436301
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/blob.min.js?ver=4eca38a62df5f0145a5f1a78858581e7
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/block-editor.min.js?ver=fc8c27c6e95e7e0d59b4e344cb9ddfed
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=2fc6dec19af6d4c5e5fec8f6fdc1a10b
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/blocks.min.js?ver=7ed7fe32dad771c4e0af4f56539ff156
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/components.min.js?ver=413e179f8a99bd28091ba5cc6f72c9f3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/compose.min.js?ver=35754587ca81a116927d3de1017f4fa0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/core-data.min.js?ver=fe45a7066c931b4d3d0ff96789da023d
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\core-data.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/data-controls.min.js?ver=cb4174d77c57f56732dc41d3bf3b2781
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/data.min.js?ver=a9e98fe3ad76884fe7909ba8348395b7
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/date.min.js?ver=061439ac4325ef057b8f9c142c82a823
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/deprecated.min.js?ver=932d8bb37da8bbb396a7a3f754345e08
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/dom-ready.min.js?ver=71883072590656bf22c74c7b887df3dd
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/dom.min.js?ver=a82fdb54a6baeb86aa639117061bf119
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/editor.min.js?ver=208cadf8632b62c7ccdf2f2feb2398e2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\editor.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/element.min.js?ver=43a121e875f299c637e1115581bee905
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/escape-html.min.js?ver=dcba9e40e8782c7d5883426934834b3e
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/html-entities.min.js?ver=26307b6ad1e445fc1a4643f634cb29c6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=9b8d91804cfb3ef5b14e6ef816664072
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=d70c8cb490d99422cf8f2693ab7e88d0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/keycodes.min.js?ver=0b881ee2324067c223d746a87ae4ddda
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/media-utils.min.js?ver=8e557d69e3ef2356d081c60830d157a1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\media-utils.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/notices.min.js?ver=f5dfeda575085df54ed17c2d8a6afaa4
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/primitives.min.js?ver=fedf57cf6da174d1eca2875b8b730af3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/priority-queue.min.js?ver=b2e76fb9887a285b5eff38763f2ac2fc
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/redux-routine.min.js?ver=fd5f93d1f8206c65d1891cf1f898211e
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/reusable-blocks.min.js?ver=f210f01a481601fc2639d3f839449c5c
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\reusable-blocks.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/rich-text.min.js?ver=10cd4e4656806fb1a6884c84213af69c
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/server-side-render.min.js?ver=e68a4eae1f1e1f9a993d3bfbb601bad3
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\server-side-render.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/shortcode.min.js?ver=361473450d55d9ffe30983cf22f42a8f
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/token-list.min.js?ver=4440092061c305ccc3ebf8ce18138c8a
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/url.min.js?ver=9e623834b7667b522230408f099fc05f
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=16.13.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/vendor/react.min.js?ver=16.13.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/warning.min.js?ver=3e70e9d62208deeee510b84df4dec7f1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/dist/wordcount.min.js?ver=83b86052fd3fc408a609e60d52164115
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/wp-embed.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/js/wp-util.min.js?ver=5.8.6
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://www.socnetsolutions.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://www.socnetsolutions.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.socnetsolutions.com\xmlrpc.php
+Content Type: text/xml
+
